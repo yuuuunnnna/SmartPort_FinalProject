@@ -1,4 +1,4 @@
-# SmartPort_FinalProject _ 항만보안
+# FinalProject_항만보안관제시스템
 
 디지털스마트부산아카데미_최종프로젝트
 
