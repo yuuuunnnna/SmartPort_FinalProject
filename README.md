@@ -29,34 +29,27 @@
 
 ### 설계(기획안)
 
-[_1팀_지능형CCTV_기획안_.hwp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/54fb1910-b9ac-4e98-bef2-b1b5f863895f/_1%E1%84%90%E1%85%B5%E1%86%B7_%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%E1%84%92%E1%85%A7%E1%86%BCCCTV_%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%E1%84%8B%E1%85%A1%E1%86%AB_.hwp)
-
 - 기획안 미리보기
+ <img width="389" alt="image" src="https://user-images.githubusercontent.com/73158757/204795483-dccbe49c-9070-4cdb-8621-67c4856151be.png">
     
-    ![스크린샷 2022-11-30 오후 6.01.41.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/276ae9dc-ad36-4207-b2f7-87158a94267c/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-11-30_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_6.01.41.png)
+<img width="386" alt="image" src="https://user-images.githubusercontent.com/73158757/204795539-10e497ee-c6a7-4716-888f-c62815df55cd.png">
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5aa3d1f6-7dc6-4fbf-aba6-35f612703e11/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a2d01653-cb45-4d25-ac38-72033dcafd6a/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af1682dd-985e-4232-aef5-6f195a31ec64/Untitled.png)
-    
+<img width="412" alt="image" src="https://user-images.githubusercontent.com/73158757/204795597-4464ddb6-b112-44b6-b500-0febd4344b93.png">
+
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/73158757/204795646-dab07a36-c231-46b9-962a-f1c57a1c0c6f.png">
 
 ---
 
 ### 데이터셋 구축
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f2a44d56-5999-40d5-8b23-c3fef4d98233/Untitled.png)
+<img width="281" alt="image" src="https://user-images.githubusercontent.com/73158757/204795158-07319a88-6da8-40fb-b201-51df3025b105.png">
 
 ---
 
 ### 모델 학습
 
-![스크린샷 2022-11-30 오후 6.14.10.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7fa81a8-5a37-40df-8890-abfaa0d1dac1/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-11-30_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_6.14.10.png)
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/73158757/204795720-66c47ce1-b215-41d3-9602-8b6d746db8f9.png">
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5d925346-aca8-430d-83d5-465507cca65f/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b6173806-4c4f-43f1-a29e-5ac9f6f6ba1b/Untitled.png)
 
 ---
 
@@ -73,13 +66,13 @@
 
 ### 서비스 흐름도
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d106aa9-5dd0-4711-8411-b0ce086ccdfe/Untitled.png)
+<img width="447" alt="image" src="https://user-images.githubusercontent.com/73158757/204795792-995b5757-2301-4e9c-bb49-b40eff1a7216.png">
 
 ---
 
 ### 기능
 
-![스크린샷 2022-11-30 오후 5.40.10.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7cce3091-1fd2-4d02-a959-a6bcc7b2068b/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-11-30_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.40.10.png)
+<img width="441" alt="image" src="https://user-images.githubusercontent.com/73158757/204795871-33d55d4f-31e1-4163-b378-089b0343778f.png">
 
 - 마우스를 이용하여 침임 감지영역 설정 (총 4개의 점으로 다각형 생성)
 - 침입 감지영역에 사람 객체가 닿게 되면 경보음 출력 및 캡쳐
@@ -96,6 +89,6 @@
 - 실시간 모니터링으로 신속대응
 - 지능형 CCTV 도입으로 인한 업뭄 강도 완화 및 보안강화 기대
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/17bf223a-af96-4266-9f73-c9eebc98e697/Untitled.png)
+<img width="433" alt="image" src="https://user-images.githubusercontent.com/73158757/204795948-7403632c-f177-4d09-91af-d26947f85d91.png">
 
 침입감지 외에도 사람 탐지 기능으로 군중밀집 지역에 지능형 CCTV 도입으로 인원 수 파악 및 위험 관리 에도 활용 가능
